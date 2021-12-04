@@ -1,0 +1,50 @@
+body{
+    color: #4a4a4ab3;
+    
+}
+header{
+    margin-bottom: 100px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgb(0 0 0 / 12%) 0px 0px 6px 0px; ;
+}
+.orange{
+    color: #c3973e; 
+}
+.blue{
+    background-color: #6abfc3;
+    color: white;
+}
+.career{
+    text-align: center;
+}
+.banner{
+    background: url(./icon/home-isometric-eebc110218cbdb1460dd2dfc662a4e96ae94747667dc81da422804ef55cfd2d8.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 200px;    
+}
+.center{
+    text-align: center
+}
+.person{
+    display: none;
+}
+footer{
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgb(0 0 0 / 12%) 0px 0px 6px 0px; ;
+}
+.flex{
+    display: flex;
+    align-items: center;
+}
+@media only screen and (min-width: 768px){
+    .banner{
+        background-size: contain;
+        background-repeat: no-repeat;
+        height: 500px;    
+    }
+    .person{
+        display: block;
+        border-radius: 50%;
+    }
+}
