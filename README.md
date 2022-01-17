@@ -17,4 +17,4 @@
 ## Contact
 
 - GitHub [@DarioPrazere](https://github.com/DarioPrazeres)
-- Twitter [@ydario_prazeres](https://twitter.com/dario_prazeres)
+- Twitter [@dario_prazeres](https://twitter.com/dario_prazeres)
