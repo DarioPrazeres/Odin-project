@@ -17,6 +17,4 @@
 ## Contact
 
 - GitHub [@DarioPrazere](https://github.com/DarioPrazeres)
-- Twitter [@your-twitter](https://twitter.com/dario_prazeres)
-=======
-https://darioprazeres.github.io/Odin-project/
+- Twitter [@ydario_prazeres](https://twitter.com/dario_prazeres)
